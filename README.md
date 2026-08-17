@@ -1,90 +1,88 @@
+# Hi, I'm Aeshah Alharthi
 
+### Computer Technical Support | SwiftUI | iOS Development | UI Implementation
 
+I'm a Computer Technical Support graduate with hands-on experience in iOS application development using Swift and SwiftUI.
 
+I'm interested in building functional mobile applications, implementing user interfaces in code, connecting screens and navigation, and developing practical solutions through collaborative projects.
 
-Hi, I’m Aeshah alharthi 👋
+## What I Do
 
-Computer Technical Support | SwiftUI | iOS Development | UI Implementation
+- iOS Application Development
+- UI Implementation using SwiftUI
+- Screen Integration & Navigation
+- Technical Support
+- Troubleshooting & Problem Solving
+- Team Collaboration
 
-I’m a Computer Technical Support graduate with hands-on experience in iOS application development using Swift and SwiftUI.
+## Featured Projects
 
-I’m interested in building functional mobile applications, implementing user interfaces in code, connecting screens and navigation, and creating smooth user experiences through practical development.
-
-What I Do
-	•	📱 iOS Application Development
-	•	🧩 UI Implementation using SwiftUI
-	•	🔗 Screen Integration & Navigation
-	•	💻 Technical Support
-	•	🛠️ Troubleshooting & Problem Solving
-	•	🤝 Team Collaboration
-
-Featured Projects
-
-Stivo
+### Stivo
 
 A team-based iOS application developed using SwiftUI.
 
 My contribution included:
-	•	Implementing application interfaces using SwiftUI
-	•	Connecting screens and navigation
-	•	Integrating interface components
-	•	Working with the development team to connect different parts of the application
+- Implementing application interfaces using SwiftUI
+- Connecting screens and navigation
+- Integrating interface components
+- Working with the development team to connect different parts of the application
 
-IT Help Desk
+Technologies: Swift · SwiftUI · Xcode · MVVM
+
+### IT Help Desk
 
 An iOS application project related to technical support and help desk functionality.
 
-Technologies:
-Swift · SwiftUI · Xcode
+Technologies: Swift · SwiftUI · Xcode
 
-Education & Experience
+## Education & Experience
 
-Computer Technical Support
+### Computer Technical Support
 
 Technical College for Girls in Riyadh
 
-Apple Developer Academy
+Diploma in Computer Technical Support.
+
+### Apple Developer Academy
 
 Completed the Apple Developer Academy program with practical experience in iOS application development, Swift, app projects, and team collaboration.
 
-Ministry of Media — Cooperative Training
+### Ministry of Media — Cooperative Training
 
 Technical Support | 5 Months
 
-Hands-on experience providing technical support, handling support requests, and working with account permissions and technical issues.
+Hands-on experience providing technical support, handling support requests, managing account permissions, and assisting with technical issues.
 
-Technical Skills
+## Technical Skills
 
-Swift SwiftUI Xcode JavaScript GitHub Microsoft Office IT Support Technical Support
+Development
+- Swift
+- SwiftUI
+- iOS Development
+- Xcode
+- JavaScript
 
-Currently Interested In
-	•	iOS Development
-	•	SwiftUI
-	•	UI Implementation
-	•	IT Support
-	•	Technical Support
-	•	User Interface Engineering
+Technical Support
+- IT Support
+- Technical Support
+- Troubleshooting
+- Account & Access Support
 
-⸻
+Tools
+- GitHub
+- Microsoft Office
 
-Let’s Connect
+## Currently Interested In
 
-LinkedIn: https: //www.linkedin.com/in/aeshah-alharthi-975894217
+- iOS Development
+- SwiftUI
+- UI Implementation
+- User Interface Engineering
+- IT Support
+- Technical Support
 
-Email: aisha12alh@gmail.com
-:::
+## Let's Connect
 
-<!--
-**Aishaalh/Aishaalh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+LinkedIn: https://www.linkedin.com/in/aeshah-alharthi-975894217/
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+GitHub: https://github.com/Aishaalh
