@@ -29,11 +29,6 @@ My contribution included:
 
 Technologies: Swift · SwiftUI · Xcode · MVVM
 
-### IT Help Desk
-
-An iOS application project related to technical support and help desk functionality.
-
-Technologies: Swift · SwiftUI · Xcode
 
 ## Education & Experience
 
